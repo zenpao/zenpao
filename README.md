@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚧 I’m currently working on an office project.
 
-- 📺 I’m currently learning **Flutter and Dart**. Never too late to use and try.
+- 📺 I’m currently learning **Dart and Flutter**. Never too late to use and try.
 
 - 💻 All of my projects are available at [https://github.com/zenpao](https://github.com/zenpao)
 
