@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🫡 Yellow, I’m @zenpao . A self-taught programmer.
 
-- 🚧 I’m currently working on an office project.
+- 🚧 I’m currently maintaining on an office project.
 
 - 📺 I’m preparing to learn **Dart and Flutter**. Never too late to use and try.
 
