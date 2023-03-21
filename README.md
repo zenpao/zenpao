@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" title="C#" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" title="Java" width="55" height="55"/></a>
-    <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/vb.svg" title="VB.Net" width="45" height="45"/></a>
+    <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/vb.svg" title="VB.Net" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" title="MySQL" width="55" height="55"/></a>
     <img src="https://cdn.cdnlogo.com/logos/s/9/sqlite.svg" title="SQLite" width="55" height="55"/></a>
     <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/></a>
