@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚧 I’m currently maintaining on an office project.
 
-- 📺 I’m preparing to learn **Dart and Flutter**. Never too late to use and try.
+- 📺 I’m preparing to learn **Python and BeeWare**. Trying out cross-platform suppor.
 
 - 💻 All of my projects are available at [https://github.com/zenpao](https://github.com/zenpao)
 
