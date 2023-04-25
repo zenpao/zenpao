@@ -52,8 +52,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=zenpao&show_icons=true&locale=en&theme=tokyonight" alt="mango-gills" /> 
-<img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=zenpao&&theme=tokyonight" alt="mango-gills" />
+<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=zenpao&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /> 
+<img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=zenpao&&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenpao&show_icons=true&theme=dark&locale=en&layout=compact" alt="mango-gills" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenpao&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Stats" /></p>
