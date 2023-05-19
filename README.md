@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📺 I’m still learning about **Python**.
 
-- 💻 All of my projects are available at [https://github.com/zenpao](https://github.com/zenpao)
+- 💻 All of my projects are available at [https://github.com/zenpao]([https://github.com/zenpao](https://github.com/zenpao?tab=repositories))
 
 - 📮 Contact me at https://bit.ly/aboutzenpao
 
