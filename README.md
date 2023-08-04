@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 All of my projects are available at https://github.com/zenpao?tab=repositories
 
-- 📮 Contact me at https://bit.ly/aboutzenpao
+- 📮 Learn more about me at https://bit.ly/aboutzenpao
 
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tools of the trade:</h3>
 <p align="center"> 
