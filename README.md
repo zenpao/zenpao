@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 All of my projects are available at https://github.com/zenpao?tab=repositories
 
-- 💼 Professional history at https://bit.ly/aboutzenpao
+- 💼 Professional history at https://www.linkedin.com/in/zenpao
 
 - 👨🏻‍🎨 See more projects at https://www.behance.net/zenpao
 
