@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚧 I’m currently maintaining on an office project.
 
-- 📺 I’m still learning about **Basic Networks, Python, Dart and Flutter**.
+- 📺 I’m still learning about **Basic Networks, Python, Dart and eventually Flutter**.
 
 - 💻 All of my projects are available at https://github.com/zenpao?tab=repositories
 
