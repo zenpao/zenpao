@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
  💻 All of my projects are available at https://github.com/zenpao?tab=repositories
 
- 💼 Professional history at https://www.linkedin.com/in/zenpao <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ 💼 Professional history at <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> (https://www.linkedin.com/in/zenpao)
 
  👨🏻‍🎨 See more projects at https://www.behance.net/zenpao
 
