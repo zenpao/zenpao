@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👨🏻‍🎨 See more projects at https://www.behance.net/zenpao
 
+- ✨ Bonus content at https://beacons.ai/zenpao
+
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tools of the trade:</h3>
 <p align="center"> 
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" title="HTML5" width="60" height="60"/></a>
