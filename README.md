@@ -9,15 +9,15 @@ You can click the Preview link to take a look at your changes.
 
 &ndash; 🫡 Wazzup, I’m @zenpao . A self-taught programmer and graphic designer.
 
- 🚧 I’m currently maintaining on an office project.
+&ndash; 🚧 I’m currently maintaining on an office project.
 
- 📺 I’m still learning about **Basic Networks, Python, Dart and eventually Flutter**.
+&ndash; 📺 I’m still learning about **Basic Networks, Python, Dart and eventually Flutter**.
 
- 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
+&ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
- 💼 Professional history at <a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&ndash; 💼 Professional history at <a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
- 👨🏻‍🎨 See more projects at <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
+&ndash; 👨🏻‍🎨 See more projects at <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
 
  ✨ Support me at <a href="https://beacons.ai/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
 
