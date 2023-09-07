@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"> About Me:</h3>
 
- 🫡 Wazzup, I’m @zenpao . A self-taught programmer and graphic designer.
+&ndash; 🫡 Wazzup, I’m @zenpao . A self-taught programmer and graphic designer.
 
  🚧 I’m currently maintaining on an office project.
 
