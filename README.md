@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
  📺 I’m still learning about **Basic Networks, Python, Dart and eventually Flutter**.
 
- 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Grey?logo=github&logoColor=white" alt="Github"/></a>
+ 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
  💼 Professional history at <a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
