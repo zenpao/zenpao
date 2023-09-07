@@ -9,17 +9,17 @@ You can click the Preview link to take a look at your changes.
 
  🫡 Wazzup, I’m @zenpao . A self-taught programmer and graphic designer.
 
-- 🚧 I’m currently maintaining on an office project.
+ 🚧 I’m currently maintaining on an office project.
 
-- 📺 I’m still learning about **Basic Networks, Python, Dart and eventually Flutter**.
+ 📺 I’m still learning about **Basic Networks, Python, Dart and eventually Flutter**.
 
-- 💻 All of my projects are available at https://github.com/zenpao?tab=repositories
+ 💻 All of my projects are available at https://github.com/zenpao?tab=repositories
 
-- 💼 Professional history at https://www.linkedin.com/in/zenpao
+ 💼 Professional history at https://www.linkedin.com/in/zenpao
 
-- 👨🏻‍🎨 See more projects at https://www.behance.net/zenpao
+ 👨🏻‍🎨 See more projects at https://www.behance.net/zenpao
 
-- ✨ Support me at https://beacons.ai/zenpao
+ ✨ Support me at https://beacons.ai/zenpao
 
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tools of the trade:</h3>
 <p align="center"> 
