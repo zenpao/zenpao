@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
  💼 Professional history at <a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
- 👨🏻‍🎨 See more projects at <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white" alt="Behance"/></a>
+ 👨🏻‍🎨 See more projects at <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-00AFF0?logo=behance&logoColor=white" alt="Behance"/></a>
 
  ✨ Support me at <a href="https://beacons.ai/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-blue?logo=beacons&logoColor=white" alt="Beacons"/></a>
 
