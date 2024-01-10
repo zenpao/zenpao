@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 &ndash; 🚧 I’m currently developing software scripts to streamline my work in the office.
 
-&ndash; 📺 I’m still learning about **The free CS50 (2023), Network for Dummies and Javascript**.
+&ndash; 📺 I’m still learning about **The free CS50 (2024), Network for Dummies and Javascript**.
 
 &ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
