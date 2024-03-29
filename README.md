@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 &ndash; 👨🏻‍🎨 See more projects at <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
 
- ✨ Support me at <a href="https://beacons.ai/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
+ ✨ Support me at <a href="https://beacons.bio/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
 
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tools of the trade:</h3>
 <p align="center"> 
