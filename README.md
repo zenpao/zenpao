@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 &ndash; 🫡 Wazzup, I’m @zenpao . A self-taught programmer and graphic designer.
 
-&ndash; 🚧 I’m currently on a much needed rest and career development break.
+&ndash; 🚧 I’m currently on a much needed rest and career development break (BulmaCSS, Django, Vue).
 
 &ndash; 📺 I’m still learning new things.
 
