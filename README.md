@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> 
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" title="HTML5" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" title="CSS3" width="60" height="60"/></a>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" title="JavaScript" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="Bootstrap" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/></a>
