@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 &ndash; 🚧 I’m currently on a much needed rest and career development break.
 
-&ndash; 📺 I’m still learning new things.
+&ndash; 📺 I’m still researching what track to take for Web Development.
 
 &ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
