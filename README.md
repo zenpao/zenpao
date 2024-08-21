@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" title="Notepad++" width="40" height="40"/></a>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="Node" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Batch Terminal" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/></a>
@@ -51,7 +52,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Adobe Illustrator" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/a/98/affinity-photo.svg" title="Affinity Photo" width="55" height="55"/></a>
     <img src="https://cdn.cdnlogo.com/logos/a/21/affinity-designer.svg" title="Affinity Designer" width="55" height="55"/></a>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" title="Figma" width="60" height="60"/></a>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" title="Figma" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/c/38/ChatGPT.svg" title="ChatGPT" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="Stackoverflow" width="40" height="40"/></a>
 </p>
