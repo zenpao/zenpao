@@ -26,7 +26,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" title="HTML5" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" title="CSS3" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" title="JavaScript" width="60" height="60"/></a>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="Bootstrap" width="55" height="55"/></a>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="BootstrapCSS" width="55" height="55"/></a>
+        <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/></a>
@@ -43,7 +44,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" title="Notepad++" width="40" height="40"/></a>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="Node" width="40" height="40"/></a>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/></a>
     <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Batch Terminal" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/></a>
