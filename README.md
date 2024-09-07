@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"> About Me:</h3>
 
-Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break for Web Development. If you're curious on what I do, please don't hesitate to visit the links below.
+Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break for Python Application Development. If you're curious on what I do, please don't hesitate to visit the links below.
 
 &ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
