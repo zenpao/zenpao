@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
 
-<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"/> About Me:</h3>
+<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"> About Me:</h3>
 
 Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break for Python Application Development. If you're curious on what I do, please don't hesitate to visit the links below.
 
