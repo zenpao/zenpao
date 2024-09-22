@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break for Python Application Development. If you're curious on what I do, please don't hesitate to visit the links below.
 
-<h3 align="left"> Connect with e:</h3>
+<h3 align="left"> Connect with me:</h3>
 
 &ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
