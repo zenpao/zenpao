@@ -11,15 +11,13 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 
 <h3 align="left">Connect with me:</h3>
 
-&ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
-
-&ndash; 💼 Professional history at <a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-&ndash; 👨🏻‍🎨 See more projects at <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
-
- ✨ Support me at <a href="https://www.beacons.ai/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
-
- ✨ Products on-sale at <a href="https://www.raket.ph/zenpao" target="_blank"><img src="https://img.shields.io/badge/RaketPH-orange?logo=beacons&logoColor=white" alt="RaketPH"/></a>
+<p align=“center”>
+<a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="https://www.beacons.ai/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
+<a href="https://www.raket.ph/zenpao" target="_blank"><img src="https://img.shields.io/badge/RaketPH-orange?logo=beacons&logoColor=white" alt="RaketPH"/></a>
+</p>
 
 <h3 align="left">Tools of the trade:</h3>
 <p align="center"> 
@@ -27,7 +25,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" title="CSS3" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" title="JavaScript" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="BootstrapCSS" width="55" height="55"/></a>
-        <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="50" height="50"/></a>
+     <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="50" height="50"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/></a>
@@ -40,7 +38,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 </p>
 
 <p align="center">
-     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" title="VS Code" width="40" height="40"/></a>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" title="VS Code" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" title="Notepad++" width="40" height="40"/></a>
