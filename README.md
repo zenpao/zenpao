@@ -5,11 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
 
-<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30"> About Me:</h3>
+<h3 align="left">About Me:</h3>
 
 Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break for Python Application Development. If you're curious on what I do, please don't hesitate to visit the links below.
 
-<h3 align="left"> Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 &ndash; 💻 All of my projects are available at <a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 
@@ -21,7 +21,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 
  ✨ Products on-sale at <a href="https://www.raket.ph/zenpao" target="_blank"><img src="https://img.shields.io/badge/RaketPH-orange?logo=beacons&logoColor=white" alt="RaketPH"/></a>
 
-<h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tools of the trade:</h3>
+<h3 align="left">Tools of the trade:</h3>
 <p align="center"> 
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" title="HTML5" width="60" height="60"/></a>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" title="CSS3" width="60" height="60"/></a>
