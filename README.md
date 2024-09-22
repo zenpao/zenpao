@@ -12,7 +12,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 <h3 align="left">Connect with me:</h3>
 
 <p align=“center”>
-<a href="https://github.com/zenpao?tab=repositories" target="_blank" align="center" ><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/zenpao?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Github-Gray?logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/zenpao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.behance.net/zenpao" target="_blank"><img src="https://img.shields.io/badge/Behance-1DA1F2?logo=behance&logoColor=white" alt="Behance"/></a>
 <a href="https://www.beacons.ai/zenpao" target="_blank"><img src="https://img.shields.io/badge/Beacons-black?logo=beacons&logoColor=white" alt="Beacons"/></a>
