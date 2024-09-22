@@ -64,5 +64,5 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 </p>
 
 <p align="center">
-    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenpao&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenpao&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Stats"/>
 </p>
