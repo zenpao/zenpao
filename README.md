@@ -42,7 +42,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" title="PyCharm" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" title="Sublime Text 3" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" title="Notepad++" width="40" height="40"/>
-    ## <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/>
+    <!--- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/> --->
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Batch Terminal" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/>
