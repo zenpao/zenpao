@@ -3,6 +3,10 @@ zenpao/zenpao is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0xazdjdXBhbmVreGx2ZWswMzF1ZzE4bGkzbm01Y2piZ3h4MmdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.webp">
+</p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
 
 <h3 align="left">About Me:</h3>
@@ -65,8 +69,4 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenpao&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0xazdjdXBhbmVreGx2ZWswMzF1ZzE4bGkzbm01Y2piZ3h4MmdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.webp">
 </p>
