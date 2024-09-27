@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="250" height="150">
+<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="220" height="120">
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
