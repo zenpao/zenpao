@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGFpyiHGOH6BA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671774627354?e=1732752000&v=beta&t=O20CigkUuBvJiCI0EuFJsY5L8j-CmHecnXnwgSb3cSA">
+<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png">
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
