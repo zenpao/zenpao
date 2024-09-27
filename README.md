@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="200" height="100">
+<img src="https://flyclipart.com/thumb2/gamerxbluefire-on-scratch-179031.png" width="250" height="150">
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
@@ -70,3 +70,5 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenpao&show_icons=true&theme=dark&locale=en&layout=compact" alt="GitHub Stats"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
