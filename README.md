@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm0xazdjdXBhbmVreGx2ZWswMzF1ZzE4bGkzbm01Y2piZ3h4MmdpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.webp">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGFpyiHGOH6BA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671774627354?e=1732752000&v=beta&t=O20CigkUuBvJiCI0EuFJsY5L8j-CmHecnXnwgSb3cSA">
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=zenpao&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Zen"/> </p>
