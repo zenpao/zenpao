@@ -30,6 +30,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" title="JavaScript" width="60" height="60"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="BootstrapCSS" width="55" height="55"/></a>
     <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="50" height="50"/>
+    <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" title="TailwindCSS" width="50" height="50"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/>
