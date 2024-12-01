@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">About Me:</h3>
 
-Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break for Python Application Development. If you're curious on what I do, please don't hesitate to visit the links below.
+Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m currently on a much needed rest and career development break that entices my curiosity. If you're curious on what I do, please don't hesitate to visit the links below.
 
 <h3 align="left">Connect with me:</h3>
 
