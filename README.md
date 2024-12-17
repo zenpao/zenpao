@@ -31,15 +31,13 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="BootstrapCSS" width="55" height="55"/></a>
     <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="50" height="50"/>
     <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" title="TailwindCSS" width="50" height="50"/>
+    <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" title="Flet" width="50" height="50"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" title="C#" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" title="Java" width="55" height="55"/>
     <img src="https://github.com/dotnet/docs/blob/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/vb.svg" title="VB.Net" width="40" height="40"/>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" title="MySQL" width="55" height="55"/>
-    <img src="https://cdn.cdnlogo.com/logos/s/9/sqlite.svg" title="SQLite" width="55" height="55"/>
-    <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -50,6 +48,12 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <!--- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" title="NodeJS" width="40" height="40"/> --->
     <img src="https://cdn.cdnlogo.com/logos/n/72/netbeans.svg" title="Netbeans" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/t/12/terminal.svg" title="Batch Terminal" width="40" height="40"/>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" title="MySQL" width="55" height="55"/>
+    <img src="https://cdn.cdnlogo.com/logos/s/9/sqlite.svg" title="SQLite" width="55" height="55"/>
+    <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/>
+</p>
+
+<p align="center">
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/after-effects.png" title="Adobe After Effects" width="40" height="40"/>
     <img src="https://cdn.cdnlogo.com/logos/a/64/adobe-premiere-pro-cc.svg" title="Adobe Premiere" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" title="Adobe Photoshop" width="40" height="40"/>
