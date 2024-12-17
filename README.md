@@ -31,7 +31,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" title="BootstrapCSS" width="55" height="55"/></a>
     <img src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png" title="BulmaCSS" width="50" height="50"/>
     <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" title="TailwindCSS" width="50" height="50"/>
-    <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" title="Flet" width="50" height="50"/>
+    <img src="https://flet.dev/img/logo.svg" title="Flet" width="50" height="50"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" title="PHP" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" title="Flask" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" title="Python3" width="50" height="50"/>
@@ -51,6 +51,8 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" title="MySQL" width="55" height="55"/>
     <img src="https://cdn.cdnlogo.com/logos/s/9/sqlite.svg" title="SQLite" width="55" height="55"/>
     <img src="https://cdn.cdnlogo.com/logos/m/84/microsoft-access.svg" title="MS Access" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/c/38/ChatGPT.svg" title="ChatGPT" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="Stackoverflow" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -61,8 +63,6 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://cdn.cdnlogo.com/logos/a/98/affinity-photo.svg" title="Affinity Photo" width="55" height="55"/>
     <img src="https://cdn.cdnlogo.com/logos/a/21/affinity-designer.svg" title="Affinity Designer" width="55" height="55"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" title="Figma" width="40" height="40"/>
-    <img src="https://cdn.cdnlogo.com/logos/c/38/ChatGPT.svg" title="ChatGPT" width="40" height="40"/>
-    <img src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg" title="Stackoverflow" width="40" height="40"/>
 </p>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
