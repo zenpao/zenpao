@@ -68,7 +68,7 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=zenpao&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/> 
+    <img align="center" width="418" src="https://github-readme-stats.vercel.app/api?username=zenpao&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/> 
     <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=zenpao&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
