@@ -60,8 +60,8 @@ Hi! I’m @zenpao . A self-taught programmer and graphic designer. I’m current
     <img src="https://cdn.cdnlogo.com/logos/a/64/adobe-premiere-pro-cc.svg" title="Adobe Premiere" width="40" height="40"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" title="Adobe Photoshop" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" title="Adobe Illustrator" width="40" height="40"/>
-    <img src="https://cdn.cdnlogo.com/logos/a/14/affinity-photo.svg" title="Affinity Photo" width="40" height="40"/>
-    <img src="https://cdn.cdnlogo.com/logos/a/35/affinity-designer.svg" title="Affinity Designer" width="40" height="40"/>
+    <img src="https://cdn.cdnlogo.com/logos/a/14/affinity-photo.svg" title="Affinity Photo" width="38" height="38"/>
+    <img src="https://cdn.cdnlogo.com/logos/a/35/affinity-designer.svg" title="Affinity Designer" width="38" height="38"/>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" title="Figma" width="40" height="40"/>
 </p>
  
